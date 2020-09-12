@@ -18,5 +18,5 @@ Hi, I'm Kousika — a Javascript fullstack developer specialized in both fronten
 
 - Twitter: https://twitter.com/kousika13
 - Linkedin: https://in.linkedin.com/in/kousika-ganesan
-- Portfolio : https://kousikaganesan.github.io/
+- Portfolio : http://bit.ly/kousika
 
